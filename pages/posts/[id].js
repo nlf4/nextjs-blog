@@ -40,5 +40,7 @@ export async function getStaticPaths() {
       }
     }
   }
+
+  
   
   
